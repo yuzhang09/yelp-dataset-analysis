@@ -1,7 +1,7 @@
 # Analyzing 10Gb of Yelp Reviews Data
 We will analyze a subset of Yelp's business, reviews and user data. This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) although we have taken steps to pull this data into a publis s3 bucket: `s3://sta9760-yelpdataset/yelp-light/*business.json`
 
-## [Analysis]()
+## [Analysis](https://github.com/yuzhang09/yelp-dataset-analysis/blob/4058ef1f95b3e4f020c9407a4fba5e4c71f8f1b3/Analysis.ipynb)
 
 There are four parts in total. 
 
