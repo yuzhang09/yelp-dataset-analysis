@@ -29,4 +29,4 @@ Answered two questions: Do Yelp Reviews Skew Negative? and Which top 5 states ha
 ## Cluster and Notebook Configs
 
 ![cluster](assets/cluster_configuration.png)
-![notebook]()
+![notebook](assets/notebook_configuration.png)
